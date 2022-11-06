@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AmarMalde
-- 👀 I’m interested in learning to code, to eventualyl start a career in software.
+- 👀 I’m interested in learning to code, to eventually start a career in software dev.
 - 🌱 I’m currently enrolled in a bootcamp ran by Trilogy Education Services which focuses on the front end.
 
 
